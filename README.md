@@ -1,3 +1,3 @@
-# All things tech
+# All things Tech
 
 notes and learnings
