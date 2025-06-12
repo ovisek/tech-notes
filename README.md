@@ -1,2 +1,3 @@
-# DevOps-notes
-notes and learnings : topic - DevOps
+# All things tech
+
+notes and learnings
